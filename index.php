@@ -29,6 +29,7 @@ echo "<br>", "Min: ", $min;
 <form method="post">
     <input name="input" placeholder="number">
     <input type="submit" value="submit">
+
 </form>
 </body>
 </html>
